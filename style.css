@@ -1,0 +1,16 @@
+section { border: width="20px" height="30px" solid white;
+          background-color: rgba(255, 255, 255, .8);
+          <!-- used rgba to edit background w/o text-->
+}
+#title { color: purple}
+#title1 { color: red}
+#title2 { color: orange}
+#title3 { color: green}
+#movie  { color: blue; text-shadow: 1.25px 1.25px red }
+#movie1
+#movie2
+#title { color: purple}
+#title1 { color: red}
+#title2 { color: orange}
+#title3 { color: green}
+#movie  { color: blue; text-shadow: 1.25px 1.25px red }
